@@ -4,16 +4,27 @@
 <br/>Android App for ordering food online
 <br/>
 <br/>
-# All Foods
-![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)
+# GURVAK – ONLINE SHOP TIZIMI
+<center> ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)</center>
 <br/>
-# Menu
-![RestaurantApp](https://github.com/AlbinoB/RestaurantApp/blob/master/Screenshots/9-Selected%20Items%20Screenshot.png)
-<br/>
-# Order history
-![RestaurantApp](https://github.com/AlbinoB/RestaurantApp/blob/master/Screenshots/12-Order%20History%20Screenshot.png)
+# Tizimning umumiy tasnifi
+Online shop (internet magazin, masalan olx.uz, ebay.com, amazon.com, aliexpress.com tizimlarga o’xshash) dasturi internetda savdo qilishga bag’ishlangan. Ushbu tizim orqali tadbirkorlar o’zlariga personal kabinetlar ochishlari mumkin va o’zlarining maxsulotlarini joylashlari mumkin. Ushbu maxsulotlar kategoriyalarga ajratilgan bo’ladi. Online Shop tizimi orqali foydalanuvchilar o’zlariga elektron savatchalar ochishlar va maxsulotlarni harid qilishlari mumkin. 
 
 <br/>
+# Texnik tasnif
+Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
+– Tadbirkorlarni ro’yxatdan o’tkazish (seller jadvalida); <br/>
+– Maxsulotlar kategoriyasini yaratish (category jadvalida); <br/>
+– Maxsulotlarni qo’shish imkoniyati (goods jadvalida) va har bir maxsulot biror kategoriyaga va tadbirkorga tegishli bo’ladi.
+<br/>
+# Umimiy Dizayn.(Xmind) 
+<center> ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/Xmind.png)</center>
+<br/>
+# UseCase 
+<center> ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UseCase.png)</center>
+<br/>
+
+
 <br/>The app is built in kotlin and uses volley to send get and post request from the internshala serve through rest api calls.
 <br/>The app also uses the room library to send data to the SQLite database.
 <br/>
