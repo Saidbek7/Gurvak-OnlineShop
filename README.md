@@ -1,9 +1,3 @@
-# Gurvak-OnlineShop
- Online Shop like Shopify, OLX
- 
-<br/>Android App for ordering food online
-<br/>
-<br/>
 # GURVAK – ONLINE SHOP TIZIMI
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)
 <br/>
@@ -21,6 +15,9 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 <br/>
 # USE CASE DIAGRAM.
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UseCase.png)
+<br/>
+# Online shop tizimi ma’lumotlar bazasi dizayni.
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/DB.png)
 <br/>
 
 <br/>The app is built in kotlin and uses volley to send get and post request from the internshala serve through rest api calls.
