@@ -18,10 +18,10 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 – Maxsulotlarni qo’shish imkoniyati (goods jadvalida) va har bir maxsulot biror kategoriyaga va tadbirkorga tegishli bo’ladi.
 <br/>
 # Umimiy Dizayn.(Xmind) 
-<center> ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/Xmind.png)</center>
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/Xmind.png)
 <br/>
 # UseCase 
-<center> ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UseCase.png)</center>
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UseCase.png)
 <br/>
 
 
