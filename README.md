@@ -31,12 +31,11 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 <br/>
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UI4.png)
 <br/>
-<br/>The app is built in kotlin and uses volley to send get and post request from the internshala serve through rest api calls.
-<br/>The app also uses the room library to send data to the SQLite database.
+
 <br/>
-<br/>Main features considered while developing
-<br/>1.Recycler Views
-<br/>2.Fragments
-<br/>3.Room Library
-<br/>4.Volley
-<br/>
+# Qo'llanilgan texnologiyalar
+<br/>1.Recycler View
+<br/>2.Retrofit2
+<br/>3.REST API (JSON)
+<br/>4.GRID VIEW
+<br/> 5.SMS services
