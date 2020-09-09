@@ -25,15 +25,17 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 # Online shop tizimining kontrolleri.
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/controller.png)
 <br/>
-# Online shop tizimining ko’rinish (View – Graphic User Interface) dizayni.
+# Online shop tizimining ko’rinish (View – Graphic User Interface) dizayni.
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UI1.jpg)
+# Menu.
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UI2.jpg)
 <br/>
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UI4.png)
 <br/>
 
 <br/>
-# Qo'llanilgan texnologiyalar
+# Qo'llanilgan texnologiyalar.
+
 <br/>1.Recycler View
 <br/>2.Retrofit2
 <br/>3.REST API (JSON)
