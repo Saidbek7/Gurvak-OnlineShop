@@ -19,6 +19,9 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 # Online shop tizimi ma’lumotlar bazasi dizayni.
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/DB.png)
 <br/>
+# Online shop tizimining modeli.
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/model.png)
+<br/>
 
 <br/>The app is built in kotlin and uses volley to send get and post request from the internshala serve through rest api calls.
 <br/>The app also uses the room library to send data to the SQLite database.
