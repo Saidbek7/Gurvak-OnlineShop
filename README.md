@@ -19,7 +19,9 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 # GURVAK.XMIND
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/Xmind.png)
 <br/>
-
+# USE CASE DIAGRAM.
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/UseCase.png)
+<br/>
 
 <br/>The app is built in kotlin and uses volley to send get and post request from the internshala serve through rest api calls.
 <br/>The app also uses the room library to send data to the SQLite database.
