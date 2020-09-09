@@ -19,7 +19,7 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 <br/>
 
 # GURVAK – ONLINE SHOP TIZIMI
-![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/Xmind.png)
 <br/>
 
 
