@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <RelativeLayout
+        android:id="@+id/top_Panel"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#fece05"
+        android:padding="5dp"
+        >
+        <TextView
+            android:id="@+id/logo_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ro'yyhatdan o'tish"
+            android:textSize="35sp"
+            android:textColor="#73601F"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/bangers"
+            />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_below="@+id/top_Panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+
+             <EditText
+            android:id="@+id/reg_Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:hint="  Summa"
+            android:inputType="textMultiLine"
+            android:background="@drawable/border"
+            android:padding="16dp"
+              android:layout_marginTop="10dp"
+            android:layout_marginLeft="17dp"
+            android:layout_marginRight="17dp"/>
+
+
+
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_Password"
+            android:padding="4dp"
+            android:layout_marginTop="10dp"
+
+            android:layout_marginLeft="19dp"
+            android:layout_marginRight="19dp"
+            android:text="To'lash"
+            android:textAllCaps="false"
+            android:textSize="24sp"
+            android:textColor="@android:color/white"
+            android:background="#fece00"
+
+            />
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Powered by SAIDBABA GROUP"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginRight="19dp"
+        android:layout_alignParentBottom="true"
+
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+</RelativeLayout>

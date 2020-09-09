@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <RelativeLayout
+        android:id="@+id/top_Panel"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#fece05"
+     android:padding="5dp"
+        >
+        <TextView
+            android:id="@+id/logo_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KIRISH"
+            android:textSize="35sp"
+            android:textColor="#73601F"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/bangers"
+            />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_baseline_vpn_key_24"
+              android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            />
+    </RelativeLayout>
+
+
+
+
+
+    <RelativeLayout
+        android:layout_below="@+id/top_Panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/login_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:hint="  Email.."
+            android:inputType="textEmailAddress"
+            android:background="@drawable/border"
+            android:padding="16dp"
+            android:drawableStart="@drawable/ic_baseline_email_24"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="17dp"
+            android:layout_marginRight="17dp"
+            />
+
+
+        <EditText
+            android:id="@+id/login_Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/login_email"
+            android:hint="  Parol.."
+            android:inputType="textPassword"
+            android:background="@drawable/border"
+            android:padding="16dp"
+            android:drawableStart="@drawable/ic_baseline_vpn_key_24"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="17dp"
+            android:layout_marginRight="17dp"/>
+
+        <TextView
+            android:id="@+id/forget_password_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/login_Password"
+            android:text="Parol esingizda yo'qmi?"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="15dp"
+            android:textAlignment="textEnd"
+            android:textStyle="bold"
+            android:textSize="19sp"
+            android:textColor="#fece05"
+            android:layout_marginRight="19dp"/>
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/forget_password_link"
+            android:padding="4dp"
+            android:layout_marginTop="10dp"
+
+            android:layout_marginLeft="19dp"
+            android:layout_marginRight="19dp"
+            android:text="Kirish"
+            android:textAllCaps="false"
+            android:textSize="24sp"
+            android:textColor="@android:color/white"
+            android:background="#fece00"
+
+            />
+
+
+        <TextView
+            android:id="@+id/need_new_account_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/login_button"
+            android:text="Ro'yhatdan o'ting"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="15dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#fece00"
+            android:layout_marginRight="21dp"
+            android:textSize="21sp"
+            />
+
+        <TextView
+            android:id="@+id/login_using"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/need_new_account_link"
+            android:text="yoki mavjud profilga kiring"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="15dp"
+            android:textColor="#fece00"
+            android:textAlignment="center"
+            android:textStyle="bold"
+
+            android:layout_marginRight="21dp"
+            android:textSize="17sp"
+            />
+
+        <Button
+            android:id="@+id/phone_using_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/login_using"
+            android:layout_marginLeft="19dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginRight="19dp"
+            android:background="#fece00"
+            android:padding="4dp"
+            android:text="Telefon orqali kirish   "
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+
+            />
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Powered by SAIDBABA GROUP"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginRight="19dp"
+        android:layout_alignParentBottom="true"
+
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+</RelativeLayout>

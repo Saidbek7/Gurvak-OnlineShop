@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668068239522",
+    "firebase_url": "https://digitalmarkethumo.firebaseio.com",
+    "project_id": "digitalmarkethumo",
+    "storage_bucket": "digitalmarkethumo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668068239522:android:799c89e09de3c6315e5ffb",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668068239522-qanbotpulc45fpggbr1971vrdvl841s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodapp",
+            "certificate_hash": "74b42f8aaeccde5c9571e9df4a9e7fc662bf73b6"
+          }
+        },
+        {
+          "client_id": "668068239522-l84evt0eacc6a5uaehdsuelul9s0mbhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLgYT6c9lL_yjpyMa4VUcS4mZwK80t9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668068239522-l84evt0eacc6a5uaehdsuelul9s0mbhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

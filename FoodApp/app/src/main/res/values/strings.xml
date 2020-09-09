@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="tasdiqlash_kodini_kiriting">Tasdiqlash kodini kiriting!...</string>
+    <string name="Tasdiqlash_kodini_kiriting">Tasdiqlash_kodini_kiriting</string>
+    <string name="telefon_raqamni_tasdiqlash">Telefon raqamni tasdiqlash</string>
+</resources>
