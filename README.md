@@ -17,7 +17,8 @@ Online shop tizimida quyidagi texnik hususiyatlarga bo’lishi kerak: <br/>
 – Maxsulotlar kategoriyasini yaratish (category jadvalida); <br/>
 – Maxsulotlarni qo’shish imkoniyati (goods jadvalida) va har bir maxsulot biror kategoriyaga va tadbirkorga tegishli bo’ladi.
 <br/>
-# UseCase 
+
+# GURVAK – ONLINE SHOP TIZIMI
 ![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)
 <br/>
 
