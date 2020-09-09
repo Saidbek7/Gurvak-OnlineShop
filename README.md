@@ -5,7 +5,8 @@
 <br/>
 <br/>
 # GURVAK – ONLINE SHOP TIZIMI
-![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)
+<center>
+![Gurvak](https://github.com/Saidbek7/Gurvak-OnlineShop/blob/master/logoGurvak.png)  </center>
 <br/>
 # Tizimning umumiy tasnifi
 Online shop (internet magazin, masalan olx.uz, ebay.com, amazon.com, aliexpress.com tizimlarga o’xshash) dasturi internetda savdo qilishga bag’ishlangan. Ushbu tizim orqali tadbirkorlar o’zlariga personal kabinetlar ochishlari mumkin va o’zlarining maxsulotlarini joylashlari mumkin. Ushbu maxsulotlar kategoriyalarga ajratilgan bo’ladi. Online Shop tizimi orqali foydalanuvchilar o’zlariga elektron savatchalar ochishlar va maxsulotlarni harid qilishlari mumkin. 
